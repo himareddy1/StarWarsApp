@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/StarWarsApp
+/StarWarsApp/bin/Debug/netcoreapp3.0
+/StarWarsApp/obj
+/StarWarsApp.Tests/obj
+/StarWarsApp.Tests/bin/Debug/netcoreapp3.0
